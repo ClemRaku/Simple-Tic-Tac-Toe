@@ -1,16 +1,12 @@
-﻿namespace Super_Tic_Toe
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace Super_Tic_Toe
 {
     partial class Form1
     {
-        /// <summary>
-        ///  Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        ///  Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -22,170 +18,118 @@
 
         #region Windows Form Designer generated code
 
-        /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
-            button4 = new Button();
-            button5 = new Button();
-            button6 = new Button();
-            button7 = new Button();
-            button8 = new Button();
-            button9 = new Button();
-            button10 = new Button();
+            this.titleLabel = new Label();
+            this.playerScoreLabel = new Label();
+            this.cpuScoreLabel = new Label();
+            this.button1 = new Button();
+            this.button2 = new Button();
+            this.button3 = new Button();
+            this.button4 = new Button();
+            this.button5 = new Button();
+            this.button6 = new Button();
+            this.button7 = new Button();
+            this.button8 = new Button();
+            this.button9 = new Button();
+            this.restartButton = new Button();
             CPU_Timer = new System.Windows.Forms.Timer(components);
             SuspendLayout();
             // 
-            // textBox1
+            // titleLabel
             // 
-            textBox1.Font = new Font("Segoe UI Black", 12F);
-            textBox1.ForeColor = Color.Green;
-            textBox1.Location = new Point(12, 12);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 29);
-            textBox1.TabIndex = 0;
-            textBox1.Text = "Player 1";
-            textBox1.TextChanged += textBox1_TextChanged;
+            titleLabel.Font = new Font("Segoe UI", 24F, FontStyle.Bold);
+            titleLabel.ForeColor = Color.FromArgb(0, 188, 242);
+            titleLabel.Location = new Point(100, 15);
+            titleLabel.Name = "titleLabel";
+            titleLabel.Size = new Size(300, 50);
+            titleLabel.Text = "Tic Tac Toe";
+            titleLabel.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // textBox2
+            // playerScoreLabel
             // 
-            textBox2.Font = new Font("Segoe UI Black", 12F);
-            textBox2.ForeColor = Color.FromArgb(192, 0, 0);
-            textBox2.Location = new Point(372, 12);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(100, 29);
-            textBox2.TabIndex = 0;
-            textBox2.Text = "CPU Wins";
+            playerScoreLabel.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            playerScoreLabel.ForeColor = Color.FromArgb(0, 188, 242);
+            playerScoreLabel.Location = new Point(30, 70);
+            playerScoreLabel.Name = "playerScoreLabel";
+            playerScoreLabel.Size = new Size(150, 30);
+            playerScoreLabel.Text = "Player: 0";
+            playerScoreLabel.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // cpuScoreLabel
+            // 
+            cpuScoreLabel.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            cpuScoreLabel.ForeColor = Color.FromArgb(255, 111, 0);
+            cpuScoreLabel.Location = new Point(300, 70);
+            cpuScoreLabel.Name = "cpuScoreLabel";
+            cpuScoreLabel.Size = new Size(150, 30);
+            cpuScoreLabel.Text = "CPU: 0";
+            cpuScoreLabel.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // button1
             // 
-            button1.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button1.Location = new Point(75, 74);
-            button1.Name = "button1";
-            button1.Size = new Size(100, 100);
-            button1.TabIndex = 1;
-            button1.Text = ".";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += Player_Click_Button;
+            ConfigureGameButton(button1, 75, 110);
             // 
             // button2
             // 
-            button2.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button2.Location = new Point(75, 180);
-            button2.Name = "button2";
-            button2.Size = new Size(100, 100);
-            button2.TabIndex = 1;
-            button2.Text = ".";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += Player_Click_Button;
+            ConfigureGameButton(button2, 75, 216);
             // 
             // button3
             // 
-            button3.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button3.Location = new Point(75, 286);
-            button3.Name = "button3";
-            button3.Size = new Size(100, 100);
-            button3.TabIndex = 1;
-            button3.Text = ".";
-            button3.UseVisualStyleBackColor = true;
-            button3.Click += Player_Click_Button;
+            ConfigureGameButton(button3, 75, 322);
             // 
             // button4
             // 
-            button4.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button4.Location = new Point(181, 74);
-            button4.Name = "button4";
-            button4.Size = new Size(100, 100);
-            button4.TabIndex = 1;
-            button4.Text = ".";
-            button4.UseVisualStyleBackColor = true;
-            button4.Click += Player_Click_Button;
+            ConfigureGameButton(button4, 181, 110);
             // 
             // button5
             // 
-            button5.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button5.Location = new Point(181, 180);
-            button5.Name = "button5";
-            button5.Size = new Size(100, 100);
-            button5.TabIndex = 1;
-            button5.Text = ".";
-            button5.UseVisualStyleBackColor = true;
-            button5.Click += Player_Click_Button;
+            ConfigureGameButton(button5, 181, 216);
             // 
             // button6
             // 
-            button6.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button6.Location = new Point(181, 286);
-            button6.Name = "button6";
-            button6.Size = new Size(100, 100);
-            button6.TabIndex = 1;
-            button6.Text = ".";
-            button6.UseVisualStyleBackColor = true;
-            button6.Click += Player_Click_Button;
+            ConfigureGameButton(button6, 181, 322);
             // 
             // button7
             // 
-            button7.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button7.Location = new Point(287, 74);
-            button7.Name = "button7";
-            button7.Size = new Size(100, 100);
-            button7.TabIndex = 1;
-            button7.Text = ".";
-            button7.UseVisualStyleBackColor = true;
-            button7.Click += Player_Click_Button;
+            ConfigureGameButton(button7, 287, 110);
             // 
             // button8
             // 
-            button8.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button8.Location = new Point(287, 180);
-            button8.Name = "button8";
-            button8.Size = new Size(100, 100);
-            button8.TabIndex = 1;
-            button8.Text = ".";
-            button8.UseVisualStyleBackColor = true;
-            button8.Click += Player_Click_Button;
+            ConfigureGameButton(button8, 287, 216);
             // 
             // button9
             // 
-            button9.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            button9.Location = new Point(287, 286);
-            button9.Name = "button9";
-            button9.Size = new Size(100, 100);
-            button9.TabIndex = 1;
-            button9.Text = ".";
-            button9.UseVisualStyleBackColor = true;
-            button9.Click += Player_Click_Button;
+            ConfigureGameButton(button9, 287, 322);
             // 
-            // button10
+            // restartButton
             // 
-            button10.BackColor = Color.FromArgb(0, 192, 192);
-            button10.Location = new Point(83, 413);
-            button10.Name = "button10";
-            button10.Size = new Size(92, 36);
-            button10.TabIndex = 2;
-            button10.Text = "Restarts";
-            button10.UseVisualStyleBackColor = false;
-            button10.Click += Restart_Game;
+            restartButton.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            restartButton.Location = new Point(165, 450);
+            restartButton.Name = "restartButton";
+            restartButton.Size = new Size(150, 50);
+            restartButton.Text = "RESTART";
+            restartButton.FlatStyle = FlatStyle.Flat;
+            restartButton.BackColor = Color.FromArgb(0, 200, 120);
+            restartButton.ForeColor = Color.White;
+            restartButton.FlatAppearance.BorderSize = 0;
+            restartButton.FlatAppearance.MouseDownBackColor = Color.FromArgb(0, 200, 120);
+            restartButton.FlatAppearance.MouseOverBackColor = Color.FromArgb(0, 200, 120);
+            restartButton.Click += Restart_Game;
             // 
             // CPU_Timer
             // 
-            CPU_Timer.Interval = 1000;
+            CPU_Timer.Interval = 800;
             CPU_Timer.Tick += CPU_move;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(484, 461);
-            Controls.Add(button10);
+            BackColor = Color.FromArgb(30, 30, 35);
+            ClientSize = new Size(484, 520);
+            Controls.Add(restartButton);
             Controls.Add(button9);
             Controls.Add(button8);
             Controls.Add(button6);
@@ -195,19 +139,40 @@
             Controls.Add(button4);
             Controls.Add(button2);
             Controls.Add(button1);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(cpuScoreLabel);
+            Controls.Add(playerScoreLabel);
+            Controls.Add(titleLabel);
+            MaximumSize = new Size(500, 550);
+            MinimumSize = new Size(500, 550);
             Name = "Form1";
-            Text = "Simple Tic Tac Toe";
-            Load += Form1_Load;
+            Padding = new Padding(10);
+            Text = "Tic Tac Toe";
             ResumeLayout(false);
-            PerformLayout();
+        }
+
+        private void ConfigureGameButton(Button button, int x, int y)
+        {
+            button.Location = new Point(x, y);
+            button.Name = "gameButton";
+            button.Size = new Size(100, 100);
+            button.Font = new Font("Segoe UI", 32F, FontStyle.Bold);
+            button.Text = "";
+            button.FlatStyle = FlatStyle.Flat;
+            button.FlatAppearance.BorderSize = 0;
+            button.BackColor = Color.FromArgb(50, 50, 60);
+            button.ForeColor = Color.White;
+            button.FlatAppearance.MouseDownBackColor = Color.FromArgb(50, 50, 60);
+            button.FlatAppearance.MouseOverBackColor = Color.FromArgb(50, 50, 60);
+            button.UseVisualStyleBackColor = false;
+            button.Click += Player_Click_Button;
         }
 
         #endregion
 
-        private TextBox textBox1;
-        private TextBox textBox2;
+        private Label titleLabel;
+        private Label playerScoreLabel;
+        private Label cpuScoreLabel;
+
         private Button button1;
         private Button button2;
         private Button button3;
@@ -217,7 +182,8 @@
         private Button button7;
         private Button button8;
         private Button button9;
-        private Button button10;
+
+        private Button restartButton;
         private System.Windows.Forms.Timer CPU_Timer;
     }
 }

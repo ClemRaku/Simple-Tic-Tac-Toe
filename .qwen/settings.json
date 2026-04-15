@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push)",
+      "Bash(git rm *)",
+      "Read(C:\\Users\\DE COSTA FAMILY\\AppData\\Roaming\\npm\\node_modules\\@qwen-code\\qwen-code\\bundled\\qc-helper\\docs\\features/**)",
+      "WebFetch(github.com)"
+    ]
+  },
+  "$version": 3
+}

@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Clement Raka De Costa\\Documents\\Machine Learnign (Dekstop)\\C#\\Projects\\Simple Tic-Tac-Toe\\Simple-Tic-Toe\\Simple-Tic-Tac-Toe.csproj": {}
+    "D:\\Clement Raka De Costa\\Documents\\Programming Language\\Github\\Simple-Tic-Tac-Toe\\Simple-Tic-Toe\\Simple-Tic-Tac-Toe.csproj": {}
   },
   "projects": {
-    "D:\\Clement Raka De Costa\\Documents\\Machine Learnign (Dekstop)\\C#\\Projects\\Simple Tic-Tac-Toe\\Simple-Tic-Toe\\Simple-Tic-Tac-Toe.csproj": {
+    "D:\\Clement Raka De Costa\\Documents\\Programming Language\\Github\\Simple-Tic-Tac-Toe\\Simple-Tic-Toe\\Simple-Tic-Tac-Toe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Clement Raka De Costa\\Documents\\Machine Learnign (Dekstop)\\C#\\Projects\\Simple Tic-Tac-Toe\\Simple-Tic-Toe\\Simple-Tic-Tac-Toe.csproj",
+        "projectUniqueName": "D:\\Clement Raka De Costa\\Documents\\Programming Language\\Github\\Simple-Tic-Tac-Toe\\Simple-Tic-Toe\\Simple-Tic-Tac-Toe.csproj",
         "projectName": "Simple-Tic-Tac-Toe",
-        "projectPath": "D:\\Clement Raka De Costa\\Documents\\Machine Learnign (Dekstop)\\C#\\Projects\\Simple Tic-Tac-Toe\\Simple-Tic-Toe\\Simple-Tic-Tac-Toe.csproj",
+        "projectPath": "D:\\Clement Raka De Costa\\Documents\\Programming Language\\Github\\Simple-Tic-Tac-Toe\\Simple-Tic-Toe\\Simple-Tic-Tac-Toe.csproj",
         "packagesPath": "C:\\Users\\DE COSTA FAMILY\\.nuget\\packages\\",
-        "outputPath": "D:\\Clement Raka De Costa\\Documents\\Machine Learnign (Dekstop)\\C#\\Projects\\Simple Tic-Tac-Toe\\Simple-Tic-Toe\\obj\\",
+        "outputPath": "D:\\Clement Raka De Costa\\Documents\\Programming Language\\Github\\Simple-Tic-Tac-Toe\\Simple-Tic-Toe\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "E:\\Visual Studio Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DE COSTA FAMILY\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\DE COSTA FAMILY\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,6 +42,20 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Syncfusion.Core.WinForms": {
+              "target": "Package",
+              "version": "[27.2.4, )"
+            },
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[27.2.4, )"
+            },
+            "Syncfusion.Shared.Base": {
+              "target": "Package",
+              "version": "[27.2.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +75,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
