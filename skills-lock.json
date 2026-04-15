@@ -1,0 +1,570 @@
+{
+  "version": 1,
+  "skills": {
+    "syncfusion-winforms-ai-assistview": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "03e9868c54841288f0cb74d05dff294a174dfdffda53b8893e5bc08bd7ee7ffd"
+    },
+    "syncfusion-winforms-autocomplete": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "08bd6319114149d39646074874264749b98ffb4d76b516764540d311e55f7f27"
+    },
+    "syncfusion-winforms-autolabel": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "f4dec315c1b34c7fe445b2457a960202acf6c3b21f82f859713016d5f9e51eb6"
+    },
+    "syncfusion-winforms-banner-text-provider": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "6030bb2c4231a0342b3313ee39ee23274651fda766fa0977099bc48157a39dae"
+    },
+    "syncfusion-winforms-border-layout": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "354c92df8ce8be020b6895c597abc1dac4a4b51921560afc45720ef17f817adc"
+    },
+    "syncfusion-winforms-bullet-graph": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "3ca0385c7c8e2c2bf1b3574950feaa38555d21718aaac5fa02ed726bc43f6f3b"
+    },
+    "syncfusion-winforms-button": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "3ffdf7e77df2b669cfd4430d69058e485f5af842c8e731e1ee4fda47ddc1b6f5"
+    },
+    "syncfusion-winforms-button-edit": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "c84556990c84928c11916fce47637040a7d37e490d0ce86c16d5f4f3fbf90bf8"
+    },
+    "syncfusion-winforms-calculator": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "a8420ff9ff7388bcf3177b9a30305e31c5fd502518c9a7b45a4c65706cae10eb"
+    },
+    "syncfusion-winforms-calendar": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "eaf5601b69d01a5d4b7ca3f3a618c4cd3c92642f31808fad7e2713a5371ab3e3"
+    },
+    "syncfusion-winforms-card-layout": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "ccbdd18a6f8bbddcf7bfd4d9773b841ba6c76bc6609b666da36701804326f2a3"
+    },
+    "syncfusion-winforms-carousel": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "6add0adf97af389f379f209f34b1d5ed18094bc435d67694175263cffa618d08"
+    },
+    "syncfusion-winforms-chart": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "bd011f874473ac57f33ef98f0d9cd6b40a498b4f6b4e640019f918fc68935221"
+    },
+    "syncfusion-winforms-checkbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "3450653a6f4bda5c6446ff83100f925a99a341f1e4aae75946752dc459db3e9e"
+    },
+    "syncfusion-winforms-clock": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "ac48373e921286991387e88263dbe3bd71f8560e0080717b7b5460eaa488497f"
+    },
+    "syncfusion-winforms-color-picker": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "09f3d63de70ff58974d455bd48d71fca6522d00d37526ae0bfc3b944a3766f91"
+    },
+    "syncfusion-winforms-color-picker-dropdown": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "2cb413dc2a83ae990d9570fd76031693d3cd0d1fbd6cec1333293526817ee73f"
+    },
+    "syncfusion-winforms-color-ui-control": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "3fbbc36c99e9577ff3a71583d0bb49fbed095c5053d2f8c1241f376075090cda"
+    },
+    "syncfusion-winforms-combobox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "ddff00445556c257fb217ea528bc1994cd4fd4a14183b9d1346c21447f7b919d"
+    },
+    "syncfusion-winforms-comboboxbase": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "d7e087956f9191a4fce92f6505e52891d1bb97f44e13736e0b8d4cd7c66172d0"
+    },
+    "syncfusion-winforms-combodropdown": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "9ab73510cbe2ae1ec88d2510f09c689e683aec70c60b5638f8db8ceb75bd87bc"
+    },
+    "syncfusion-winforms-commandbar": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "84a132a5ca2ea61335a81ca4c198ef4708fb185f5b9bf24433251b6cdb305b13"
+    },
+    "syncfusion-winforms-common": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "29e5dd641629b3b35ab407d23895c8baea5216808ae0072def4c78643cb43515"
+    },
+    "syncfusion-winforms-contextmenustrip": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "c1b761707a91d7d15d37b764e610177c6479b877dcad006ae49faecd1a867556"
+    },
+    "syncfusion-winforms-currency-textbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "7f82daf6c45f621bc793430273c5d71190ea412466db807e150b53112ee60efe"
+    },
+    "syncfusion-winforms-datagrid": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "a429763953ceb9d63216d3b6ceab5c04366add352b9f5e30f50fbad60c34c3d8"
+    },
+    "syncfusion-winforms-datetimepicker": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "4922f77e054d00325a43b1b70c8728d642c0db533beed52f6b0583f6d436b875"
+    },
+    "syncfusion-winforms-diagram": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "7e9c0591ed87f0fabde87d16b3ca0afa6957298c1d8310db12910f89182652a0"
+    },
+    "syncfusion-winforms-docking-manager": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "2f14c1a49fb4e144810d909d069813616992208f08e5c3a70c2563131cc0cc9b"
+    },
+    "syncfusion-winforms-domainupdownext": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "b8a569debbe77e281613345d539ae208abf6a36f980398e7a687c636887dd59c"
+    },
+    "syncfusion-winforms-double-textbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "620a89e44cbee3d70c318c6399b4b83a32e48c455e8b59c74150b9d30efa8588"
+    },
+    "syncfusion-winforms-editable-listbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "af12edefdc0d2703db95e35f2f4abd6844847b155cb4dc1d27373ad8fb7433e3"
+    },
+    "syncfusion-winforms-excel-like-tabbar-splitter": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "dfe645eee2bbeca171c8e6b084e45794ac6cba24aa48441fa352e99bad4c931b"
+    },
+    "syncfusion-winforms-flow-layout": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "c54aac298c2ef92bb954600ccb8ef42b6edb4b2874ec9b30663bebb241f9ece1"
+    },
+    "syncfusion-winforms-folder-browser": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "b3d0ce96928702499260aa76bae61d50f66bad818f7054db86267c32fca30ecc"
+    },
+    "syncfusion-winforms-fontcombobox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "a45b73ae1fe6f5b5ac5c915a5be126a1b8e6caf8a9cca1a13899f97596a0576d"
+    },
+    "syncfusion-winforms-fontlistbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "f30c48a9f83335396bcef176653677d2079d7a57ff0956c6c6b91266dee089d6"
+    },
+    "syncfusion-winforms-form": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "27cd30156f6a24ed9d2f88a759274d6f69d3fa86d1d91b2d18cae1b94c243da8"
+    },
+    "syncfusion-winforms-gradient-label": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "8bc320578e7493cf65fec2d30e54fda1f1c36f202ade88b90dd908065fbfa717"
+    },
+    "syncfusion-winforms-gradient-panel": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "5baa79a65a7d5213975d80ea3631131f5195dc7f2c9400055c5cb86865779d09"
+    },
+    "syncfusion-winforms-gradientpanelext": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "4c7de6d839b66190d8b8b7ad82c7b815bc4d5c33dfc816c1d0653b5f8e0abe5d"
+    },
+    "syncfusion-winforms-grid-bag-layout": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "b130f7d94d70957202b72b937075c7f5ad5048a8684245cc70f864297149459c"
+    },
+    "syncfusion-winforms-grid-control": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "b43836d84b4550ba62ca69ab249631056f0a08a0f89553035aef1220428ebfc9"
+    },
+    "syncfusion-winforms-grid-grouping-control": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "4efd1bf2dda5d81467174f703084b7f4e9e5e0aa0253dab4308780b77b3c5478"
+    },
+    "syncfusion-winforms-grid-layout": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "ec1320d42559d8c3282f7fe045df9241a3f80efcb717c6ad439b3fea8898e8dc"
+    },
+    "syncfusion-winforms-group-view": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "0e7f1fec61ffda9e9b5fe7096674d8beec9c39e16850ea2225a4e6425df427cc"
+    },
+    "syncfusion-winforms-grouping": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "dc56b2bd4a81315e60f739d979b192d3d22e2f89a948bcdfe7e1f1afd8b0e8ac"
+    },
+    "syncfusion-winforms-hub-tile": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "6b4d19ddd1ff9651d0295381621ea9c0b5291ab0c3ce68204b0733d9bff4e99a"
+    },
+    "syncfusion-winforms-integer-textbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "65c4cdf782b17350e43fa7401ac6ef775286c92c260ff5748d6d83c8c5a17c61"
+    },
+    "syncfusion-winforms-layout-managers": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "d7b311769a7c65111d7e5571460c05c3ee89f5a2f1408a349a3370c6534b579a"
+    },
+    "syncfusion-winforms-licensing": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "320baf9191a0dcf398f8962d5b093a872733a1826547a72a5d1665bbb467cb13"
+    },
+    "syncfusion-winforms-listview": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "8623cc706639663511ac6fb459242fe3e922ab09e5d0caa490f26e0bfbe1cf3b"
+    },
+    "syncfusion-winforms-main-frame-bar-manager": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "fea88512b3d2428b65791ecbcf9456eba87cf5b9f0b6dff69e76be20cb1d270a"
+    },
+    "syncfusion-winforms-map": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "482ded2e4775bb69fc68f450ed9aacec7c3a40d2d5990244ca7304106eaa4aa0"
+    },
+    "syncfusion-winforms-masked-textbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "7b83fa96d11bf1eb1d3b0efe9dcc781d5bf1ac832cf46f29007c6c264907e8a8"
+    },
+    "syncfusion-winforms-messagebox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "7342849c4de0dc186da0b628307edea6ee0c5696be955b189ba5b5d23c962731"
+    },
+    "syncfusion-winforms-metroform": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "04e152157b87e3359ef34c3fe7f232140cc86d4c1c2f5d0dd8bb356e6457b9ec"
+    },
+    "syncfusion-winforms-multicolumn-combobox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "27c2710748f97d2fa6bcfe04bfb76b6cf8a6887c10db3d2a8651f35dac7464ad"
+    },
+    "syncfusion-winforms-multicolumn-listbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "5f4755dcf3939e223f5d6a8684b93b5de76e9dba518257641b9b0561ab82fc7b"
+    },
+    "syncfusion-winforms-multicolumn-treeview": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "0cab4bd0d450e2a89615d5d3210007d081171db9e24782042d5405c975c0d4bc"
+    },
+    "syncfusion-winforms-multiselect-combobox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "e0849030c084c8ac29b1e62a102f12a6c96b7904002974620401657b73f4cb3e"
+    },
+    "syncfusion-winforms-navigation-drawer": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "ebff0a3645cf0fa9d544457b3ec6983d94f94d0fe1a5f29b951532fd4462f246"
+    },
+    "syncfusion-winforms-navigation-pane": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "5dbc0d8145a5111fbce54629aec06330c3422de85e87ac376c288371061e4a10"
+    },
+    "syncfusion-winforms-navigation-view": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "93f9a65f1b8ae9d954af3c1d16f264bd7d72141f4050653ad6e393ceca894daf"
+    },
+    "syncfusion-winforms-numeric-textbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "2bd9f4a54d5e53757c489768676d1be929f22b5821e7c4baacf8cc82f5b859d4"
+    },
+    "syncfusion-winforms-numericupdown": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "c9e64cc88af25c0401243b69d77faae2776ced0b2da107adb2aba5dc8a5aefb3"
+    },
+    "syncfusion-winforms-office2007form": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "54a33d4618e4a552c3d7a7141307fa22fbf06eb035abd7466aaa70943bb786e2"
+    },
+    "syncfusion-winforms-office2010form": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "6e1fbb278d0792e37fd58f114cb3390703e844d0111f496d6866bb1a77c286e9"
+    },
+    "syncfusion-winforms-percent-textbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "5653a2153c2131381abbd35eec704975a4fb2a43f8b4ae61fdf16ba0e2c27df6"
+    },
+    "syncfusion-winforms-pivot-chart": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "7eb142e0bfa74a746549bc96f0cc3b55fd2e091b4722caff2e09252ca8279aba"
+    },
+    "syncfusion-winforms-pivot-grid": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "ebc9088f83f93ae30dfd1437eb204153333ec60e973b999275b5cc54bec6fca6"
+    },
+    "syncfusion-winforms-popup": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "1660a82456f9bba601a65374bed98dfc657e17f2333a2de6e569a07e33478638"
+    },
+    "syncfusion-winforms-popup-menu": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "a87ce2253f676ec7620f7243938dd87f82a4688ee2417785b676355b0e65fe35"
+    },
+    "syncfusion-winforms-progress-bar": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "7a1f74824f7701f9da4e7335e7a1d57ead18de6428113bd909a43b1b066a87a4"
+    },
+    "syncfusion-winforms-radial-gauge": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "1474d71d432c53cebdd63c18b6d679083a7eed772f0557feaa7b3357d1de6bbe"
+    },
+    "syncfusion-winforms-radial-menu": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "1e825672c6e7f5156d63a1414fc1130586cf514a5254413345849cdc343a5f94"
+    },
+    "syncfusion-winforms-radial-slider": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "abf2b9f59ac0e2dc93629867867352c6293989cbcbe525f60b30aa30b56c20b7"
+    },
+    "syncfusion-winforms-radio-button": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "f152328e2a302e6c6f6c5071fc6de70f8b853a0af2c9a94500bea8b05dd02abb"
+    },
+    "syncfusion-winforms-range-slider": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "a26444a18933173bbda539d926fe4d638dc0162b451f72f681986cda1fb6c305"
+    },
+    "syncfusion-winforms-rating": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "40f26b70f0e9c858f428d11b7736d4b9f526b0ab76436999f03a56a6b74456d7"
+    },
+    "syncfusion-winforms-record-navigation-control": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "c6fac6858ab57df44331a3bf854e587fcf71dffc20afda98ab0e8783f9643299"
+    },
+    "syncfusion-winforms-ribbon": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "e8d802f8e43c7e257f1909f900436eb2ffa53815222f281206af04905bbddede"
+    },
+    "syncfusion-winforms-scheduler": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "d1c63da0af2a8b9d3133c77cd069781910e7315deb388e89d70b309b2e5f9a1a"
+    },
+    "syncfusion-winforms-scroll-frame": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "e3ba184559eca48de0b38ddc2a63eba19c5a9ad41859431d521924840f019398"
+    },
+    "syncfusion-winforms-smith-chart": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "7ffa3415d508f4f97472fa5ed7d1e64dc211f7edb4ac3518598a6afc1b690466"
+    },
+    "syncfusion-winforms-sparkline": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "a127e488c471c87c2c41de0c9a2cde45570db228c0c2ed398182119499259d43"
+    },
+    "syncfusion-winforms-spell-checker": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "45ab3619221d61e10697393f19c44875ccdd3446c0b208274cceb1edc0a9730d"
+    },
+    "syncfusion-winforms-splash-control": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "22a9ac6963001af1580ca1f6c7413d5a4a7f5156455bf7c5a4ff706921decd06"
+    },
+    "syncfusion-winforms-splash-panel": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "f98b5d5f8b22f16feb4db1fe1bcf4ac5ec2d7c4452c8af33e9dd6247723f85dc"
+    },
+    "syncfusion-winforms-splitbutton": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "0d0024429b54d47244fab5d6cf6f827fd108fd2e260b29726303e95b6028b168"
+    },
+    "syncfusion-winforms-splitcontainer": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "00f7a0b886f2fecb8b6685d9742995b4dc81266f7fd576278f32eacdf8041def"
+    },
+    "syncfusion-winforms-splitter-control": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "7463d78289ac53c84e97b237a159cb174664edf81cac54419a4e7f9e7c0ba644"
+    },
+    "syncfusion-winforms-status-bar": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "959c44351082109d9736df04cbb46def574e211deda0e19259ed5293b7e272eb"
+    },
+    "syncfusion-winforms-statusbaradv-panel": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "72ebaaad8f9b8b4d9fe19431c61a8b76d3b618913dcb127c0eabfde2e1600069"
+    },
+    "syncfusion-winforms-statusstrip": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "4c50a0ef6e619bda621d2b871ae6c4b766e82798c9d557507bf739ddc15c521d"
+    },
+    "syncfusion-winforms-syntax-editor": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "ad98c3b7a8f365ece9eca6c5d3be1fb796b1e1cc3ad0fc2a5f50925155b5d589"
+    },
+    "syncfusion-winforms-tab-splitter-container": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "f63ae0b9a695a18d6dd8535338aa2dddd5f74b48d8ce89556717d1778c650fe7"
+    },
+    "syncfusion-winforms-tabbed-form": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "1c6186e86115020138efe4a85b239d93383afda9cd3a33e53e3a0b364b85d2c3"
+    },
+    "syncfusion-winforms-tabbed-mdi-manager": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "07e00d80088f377a5de8a0601ea60b4a7e5f8480fe42031c80364dd95d1afc97"
+    },
+    "syncfusion-winforms-tabcontrol": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "b2c1dc204a5b4bdacb289cc154d09a035ddfbb5c80eb20c9cde40757a2d3e345"
+    },
+    "syncfusion-winforms-textbox": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "9caf66c585b282d6ccc4f2c7decb3aa7cacd7eedc47f866c124a5e008399f104"
+    },
+    "syncfusion-winforms-theming": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "796e102ce29b31004e295db7b7022cf6d30cfb0ba6c99cbfebb21ed3b69733a4"
+    },
+    "syncfusion-winforms-tile-layout": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "9abb9eda2e46441216363afb24b489bbaa99a8de9c7f4b1020a7b0aaf7f35f07"
+    },
+    "syncfusion-winforms-toggle-button": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "aed476fcaf43cde088d9b30e26525b4d1d415a4ae29fcfe364974efaa5b835ec"
+    },
+    "syncfusion-winforms-tooltip": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "0463c59583ea00f31d2f224f8389da4d7011f49c5f61e762e94b1d1e652dfcb2"
+    },
+    "syncfusion-winforms-trackbar": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "0b761e6a7310f01c8780332b41074d1e6f5877bf02b2744280b7ed588c0f1288"
+    },
+    "syncfusion-winforms-tree-navigator": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "76cd991c6adac36b628daedfb8f56a1e129f79f53d87baed6f69ccd674b2aa9e"
+    },
+    "syncfusion-winforms-treemap": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "31f9299313315a431bdcb9acad3e56a8b7403b504b513a9a2ff5c28e6dabe729"
+    },
+    "syncfusion-winforms-treeview": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "add1a87ad748695c7414b970e8e219e8cb8121282829dc2915f012d85964c3ee"
+    },
+    "syncfusion-winforms-wizard-control": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "2117b9786091f98e2785fa6e99c935a7d7436f406b5e423645fbfe25b1f19f05"
+    },
+    "syncfusion-winforms-xptaskbar": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "ddedf60ded7967c706f6fcf3d72251e28e39f67ef8fc3ad91608402e8c5dbe75"
+    },
+    "syncfusion-winforms-xptaskpane": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "cb31ebf51aa95475958136aa123fcee8e386a8a5522e78bd82ca92c7e2945178"
+    },
+    "syncfusion-winforms-xptoolbar": {
+      "source": "syncfusion/winforms-ui-components-skills",
+      "sourceType": "github",
+      "computedHash": "2e64c688b55c9b9149b7b97fa066ed199a2639db4bed470b19eaa06fecee0f6c"
+    }
+  }
+}

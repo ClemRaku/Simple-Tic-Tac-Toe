@@ -14,3 +14,30 @@ D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple
 D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.pdb
 D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.genruntimeconfig.cache
 D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\ref\Simple-Tic-Tac-Toe.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.csproj.AssemblyReference.cache
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Super_Tic_Toe.Form1.resources
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.csproj.GenerateResource.cache
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.sourcelink.json
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\refint\Simple-Tic-Tac-Toe.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.pdb
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\Simple-Tic-Tac-Toe.exe
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\Simple-Tic-Tac-Toe.deps.json
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\Simple-Tic-Tac-Toe.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\Simple-Tic-Tac-Toe.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\Simple-Tic-Tac-Toe.pdb
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\Syncfusion.Core.WinForms.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\Syncfusion.Licensing.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\Syncfusion.Shared.Base.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-T.67B05EF7.Up2Date
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\Simple-Tic-Tac-Toe.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Programming Language\Github\Simple-Tic-Tac-Toe\Simple-Tic-Toe\obj\Debug\net8.0-windows\ref\Simple-Tic-Tac-Toe.dll
