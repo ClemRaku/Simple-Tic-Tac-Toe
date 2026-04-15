@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
@@ -8,5 +8,11 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.Core.WinForms" Version="27.2.4" />
+    <PackageReference Include="Syncfusion.Shared.Base" Version="27.2.4" />
+    <PackageReference Include="Syncfusion.Licensing" Version="27.2.4" />
+  </ItemGroup>
 
 </Project>

@@ -1,3 +1,6 @@
+using System.Drawing;
+using System.Windows.Forms;
+
 namespace Super_Tic_Toe
 {
     public partial class Form1 : Form
@@ -10,17 +13,16 @@ namespace Super_Tic_Toe
         Random random = new Random();
         int playerWinCount = 0;
         int CPUWinCount = 0;
-        List<Button> buttons;
+        List<Button> buttons = new List<Button>();
+
         public Form1()
         {
             InitializeComponent();
-            Restart_Game();
-
+            Restart_Game_Internal();
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
         }
 
         private void CPU_move(object sender, EventArgs e)
@@ -28,10 +30,12 @@ namespace Super_Tic_Toe
             if (buttons.Count > 0)
             {
                 int index = random.Next(buttons.Count);
-                buttons[index].Enabled = false;
+                Button btn = buttons[index];
+                btn.Enabled = false;
                 currentPlayer = Player.O;
-                buttons[index].Text = currentPlayer.ToString();
-                buttons[index].BackColor = Color.Red;
+                btn.Text = currentPlayer.ToString();
+                btn.BackColor = Color.FromArgb(255, 111, 0);
+                btn.ForeColor = Color.White;
                 buttons.RemoveAt(index);
                 Check_Game();
                 CPU_Timer.Stop();
@@ -45,7 +49,8 @@ namespace Super_Tic_Toe
             currentPlayer = Player.X;
             button.Text = currentPlayer.ToString();
             button.Enabled = false;
-            button.BackColor = Color.Cyan;
+            button.BackColor = Color.FromArgb(0, 188, 242);
+            button.ForeColor = Color.White;
             buttons.Remove(button);
             Check_Game();
             CPU_Timer.Start();
@@ -53,7 +58,7 @@ namespace Super_Tic_Toe
 
         private void Restart_Game(object sender, EventArgs e)
         {
-            Restart_Game();
+            Restart_Game_Internal();
         }
 
         private void Check_Game()
@@ -69,10 +74,10 @@ namespace Super_Tic_Toe
                 )
             {
                 CPU_Timer.Stop();
-                MessageBox.Show("Player Wins", "Clement Says");
+                MessageBox.Show("Player Wins!", "Congratulations!");
                 playerWinCount++;
-                textBox1.Text = "Player WIns: " + playerWinCount;
-                Restart_Game();
+                playerScoreLabel.Text = $"Player: {playerWinCount}";
+                Restart_Game_Internal();
             }
             else if (button1.Text == "O" && button2.Text == "O" && button3.Text == "O"
                 || button1.Text == "O" && button4.Text == "O" && button7.Text == "O"
@@ -85,27 +90,29 @@ namespace Super_Tic_Toe
                 )
             {
                 CPU_Timer.Stop();
-                MessageBox.Show("CPU Wins", "Clement Says");
+                MessageBox.Show("CPU Wins!", "Better luck next time!");
                 CPUWinCount++;
-                textBox2.Text = "Player WIns: " + CPUWinCount;
-                Restart_Game();
+                cpuScoreLabel.Text = $"CPU: {CPUWinCount}";
+                Restart_Game_Internal();
+            }
+            else if (buttons.Count == 0)
+            {
+                CPU_Timer.Stop();
+                MessageBox.Show("It's a Draw!", "No winner!");
+                Restart_Game_Internal();
             }
         }
 
-        private void Restart_Game()
+        private void Restart_Game_Internal()
         {
             buttons = new List<Button> { button1, button2, button3, button4, button5, button6, button7, button8, button9 };
-            foreach (Button x in buttons)
+            foreach (Button btn in buttons)
             {
-                x.Enabled = true;
-                x.Text = ".";
-                x.BackColor = DefaultBackColor;
+                btn.Enabled = true;
+                btn.Text = "";
+                btn.BackColor = Color.FromArgb(50, 50, 60);
+                btn.ForeColor = Color.White;
             }
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
